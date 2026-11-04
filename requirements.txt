@@ -1,0 +1,6 @@
+mlflow>=3.17
+openai>=1.40
+pandas>=2.0
+jupyter
+ipykernel
+nbconvert
